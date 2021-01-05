@@ -1,7 +1,7 @@
 # group2-bsit2c
 Group2 members
 
-Neil Pornela
+Neil Pornela (Group Leader)
 Jhonas Ramirez
 Jessleo Tan
 Zelrick Porca
