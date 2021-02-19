@@ -1,0 +1,10 @@
+ImageView:hover{
+    -fx-cursor: hand;
+}
+Button:hover{
+    -fx-cursor: hand;
+}
+RadioButton:hover{
+    -fx-cursor: hand;
+}
+
