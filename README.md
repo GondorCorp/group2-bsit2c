@@ -1,10 +1,10 @@
 # group2-bsit2c
 Group2 members
 
-Pornela Neil (Group Leader)
-Ramirez Jhonas
-Tan Jessleo
-Porca Zelrick
-Ramos Jireh
-Ramos Richard
-Balota Chadwick John
+1. Pornela Neil Arthur - Leader
+2. Ramirez Jhonas
+3. Tan Jessleo
+4. Porca Zelrick
+5. Ramos Jireh
+6. Ramos Richard
+7. Balota Chadwick John
